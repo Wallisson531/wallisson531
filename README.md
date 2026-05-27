@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<h1>Formação</h1>
+<i class="fi fi-sr-briefcase"></i> <h1>Formação</h1>
 <ul>
     <li>Gestao da Qualidade.</li>
     <li>Assistente administrativo.</li>
