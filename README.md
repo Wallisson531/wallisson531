@@ -1,17 +1,32 @@
 #Wallisso Daniel
 
 **`Desenvolvedor em Andamento`**
-
-Me chamo Wallisson Daniel, tenho 22 anos e sou natural do Parana. Estou cursando Análise e Desenvolvimento de Sistemas na FAG. Sou apaixonado por tecnologia.
-
-<p align="left">
-    <a href="https://github.com/Wallisson531">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+<h1>Sobre Mim</h1>
+<p>
+    Meu nome é Wallisson Daniel, tenho 22 anos e sou natural do Paraná.
+    Atuo como Analista de Qualidade, com experiência em análise de processos e identificação de melhorias contínuas.
+    Atualmente, estou em transição de carreira para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas pela FAG.
+    Tenho grande interesse em desenvolvimento, resolução de problemas e criação de soluções eficientes, buscando constantemente evoluir minhas habilidades técnicas e contribuir com projetos inovadores.
 </p>
+<br>
+
+<h1>Formação</h1>
+<ul>
+    <li>Gestao da Qualidade.</li>
+    <li>Assistente administrativo.</li>
+    <li>Analise e Desenvolvimento de Sistemas (Cursando).</li>
+</ul>
+
+<h1>Obejetivo</h1>
+
+<p>Estou em busca da minha primeira oportunidade como desenvolvidor (Estágio ou Junior), onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.</p>
+
+<h1>Contato</h1>
+<ul>
+    <li>Email <a href="wallissondaniel541@gmail.com"></a></li>
+    <li>Linkedin <a href="https://www.linkedin.com/feed/"></a></li>
+</ul>
+
 
 ---
 
@@ -49,14 +64,7 @@ Me chamo Wallisson Daniel, tenho 22 anos e sou natural do Parana. Estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -65,30 +73,7 @@ Me chamo Wallisson Daniel, tenho 22 anos e sou natural do Parana. Estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="PHP" 
@@ -97,22 +82,7 @@ Me chamo Wallisson Daniel, tenho 22 anos e sou natural do Parana. Estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
