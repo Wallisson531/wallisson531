@@ -23,8 +23,8 @@
 
 <h1>Contato</h1>
 <ul>
-    <li>Email <a href="wallissondaniel541@gmail.com"></a></li>
-    <li>Linkedin <a href="https://www.linkedin.com/feed/"></a></li>
+    <li>Email wallissondaniel541@gmail.com</li>
+    <li>Linkedin https://www.linkedin.com/feed/</li>
 </ul>
 
 
