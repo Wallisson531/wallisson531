@@ -10,14 +10,14 @@
 </p>
 <br>
 
-<i class="fi fi-sr-briefcase"></i> <h1>Formação</h1>
+<img src="pasta.png" alt=""><h1>Formação</h1>
 <ul>
     <li>Gestao da Qualidade.</li>
     <li>Assistente administrativo.</li>
     <li>Analise e Desenvolvimento de Sistemas (Cursando).</li>
 </ul>
 
-<h1>Objetivo</h1>
+<h1>Obejetivo</h1>
 
 <p>Estou em busca da minha primeira oportunidade como desenvolvidor (Estágio ou Junior), onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.</p>
 
