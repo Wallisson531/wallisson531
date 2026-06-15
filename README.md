@@ -103,8 +103,11 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h2>📊 Gráfico de Contribuições</h2>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wallisson531&theme=tokyo-night"/>
+
+### 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallisson531&show_icons=true&theme=tokyonight)
 
