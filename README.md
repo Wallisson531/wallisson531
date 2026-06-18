@@ -19,7 +19,7 @@
 
 <h1>Objetivo</h1>
 
-<p>Estou em busca da minha primeira oportunidade como desenvolvidor (Estágio ou Junior), onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.</p>
+<p>Estou em busca da minha primeira oportunidade como desenvolvedor (Estágio ou Junior), onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com a equipe.</p>
 
 <h1>Contato</h1>
 <ul>
