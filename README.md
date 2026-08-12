@@ -5,7 +5,7 @@
 <p>
     Meu nome é Wallisson Daniel, tenho 22 anos e sou natural do Paraná.
     Atuo como Analista de Qualidade, com experiência em análise de processos e identificação de melhorias contínuas.
-    Atualmente, estou em transição de carreira para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas pela FAG.
+    Atualmente, estou em transição de carreira para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas pela UNIVEL.
     Tenho grande interesse em desenvolvimento, resolução de problemas e criação de soluções eficientes, buscando constantemente evoluir minhas habilidades técnicas e contribuir com projetos inovadores.
 </p>
 <br>
